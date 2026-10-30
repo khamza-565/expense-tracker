@@ -100,6 +100,3 @@ The `data.json` file is created automatically when the first expense is saved.
 
 Completed as part of the [roadmap.sh Backend Developer Roadmap](https://roadmap.sh/projects/expense-tracker).
 
-## License
-
-This project is open-source and available for learning purposes.
